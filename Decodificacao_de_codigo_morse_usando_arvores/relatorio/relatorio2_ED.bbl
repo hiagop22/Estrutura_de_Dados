@@ -1,0 +1,24 @@
+\begin{thebibliography}{1}
+
+\bibitem{tex}
+Wikipédia, ``Bibtex.'' {https://pt.wikipedia.org/wiki/BibTeX}, Janeiro 2009.
+\newblock Acessado em: 16 Novembro 2017.
+
+\bibitem{Cecilia}
+C.~Fernandes, ``Guia latex - parte iii: Estruturando e marcando o texto.''
+  {http://www.vidageek.net/2007/10/29/guia-latex-parte-iii-estruturando-e-marcando-o-texto/},
+  Setembro 2007.
+\newblock Acessado em: 16 Novembro 2017.
+
+\bibitem{Slides1}
+G.~N. Ramos, ``Estruturas de dados não lineares.'' {gnramos@unb.br}.
+
+\bibitem{Slides2}
+G.~N. Ramos, ``Algoritmos \& ordenação.'' {gnramos@unb.br}.
+
+\bibitem{site_latex}
+C.~Vellage, ``A simple guide to latex - step by step.''
+  {https://www.latex-tutorial.com/tutorials/}, Outubro 2017.
+\newblock Acessado em: 13 Novembro 2017.
+
+\end{thebibliography}
