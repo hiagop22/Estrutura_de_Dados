@@ -1,7 +1,7 @@
-/*  @file: Arvore_binaria.c
-*   @author: Hiago dos Santos (hiagop22@gmail.com)
+/*	@file: Arvore_binaria.c
+*	@author: Hiago dos Santos (hiagop22@gmail.com)
 *
-*   Cria uma árvore com as entradas inteiras do usuário, logo em seguida
+*	Cria uma árvore com as entradas inteiras do usuário, logo em seguida
 *	mostrando as diferentes formas de vizualização de uma árvore:
 * 	Ordem, pós-ordem, pré-ordem e em nível.
 */
